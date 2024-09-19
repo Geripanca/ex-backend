@@ -1,0 +1,9 @@
+npm install pdf-parse express xlsx multer
+
+add upload folder and output
+
+node server.js
+
+frontend : https://github.com/Geripanca/react-frontend
+
+make sure to use different port, u can use concurrently
